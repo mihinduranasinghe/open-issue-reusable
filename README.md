@@ -35,6 +35,6 @@ with:
   title: Some Issue Title
   body: Some Issue Body
   assignees: |
-    alialaa
-    alialaa17
+    mihinduranasinghe
+    mihinduranasinghe2
 ```
