@@ -1,4 +1,4 @@
-name: "Open Github Issue"
+name: "Open Github Issue Automate"
 author: Mihindu Ranasinghe
 description: "Opens a github issue"
 inputs:
@@ -20,3 +20,7 @@ outputs:
 runs:
   using: "node12"
   main: "dist/index.js"
+
+branding:
+  icon: "alert-octagon"
+  color: "purple"
